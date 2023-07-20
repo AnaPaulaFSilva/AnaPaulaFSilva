@@ -1,8 +1,5 @@
-### Olá oi 👋
+### Olá sou Ana Paula Ferreira Silva.
+No momento estou apredendo programação.
 
-<!--
-**AnapaulafSilva/AnaPaulaFSilva** ✨ 
 
-- 🌱 No momento estou aprendendo programação.
-Sou iniciante.
 
